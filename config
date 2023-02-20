@@ -6,5 +6,5 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/Zhang-Wenj/main.git
+	url = https://gitee.com/Mis---Zhang/gitee-android.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
